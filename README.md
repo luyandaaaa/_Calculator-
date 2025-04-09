@@ -40,6 +40,7 @@ _Calculator-/
 ├── calculator.png # Application screenshot
 └── README.md # Project documentation
 
+
 # 💻 Usage Guide
 
 ### Basic Operations

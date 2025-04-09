@@ -40,9 +40,9 @@ button {
     text-align: left;
     background-color: rgb(29, 29, 29);
     border: none;
+    color: white;
     
 }
-
 button:hover {
     background-color: rgb(212, 194, 194);
 }

@@ -1,9 +1,26 @@
+body{
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-color: rgb(202, 176, 214);
+}
+
+#calculator{
+   background-color: rgb(12, 12, 12);
+   font-family: 'Courier New', Courier, monospace;
+   overflow: hidden;
+   border-radius: 20px;
+   max-width: 500px;
+}
+
 button {
     width: 100px;
     height: 100px;
     border-radius: 50px;
     border: none;
-    background-color: rgb(77, 76, 76);
+    background-color: rgb(113, 114, 105);
     color: white;
     font-size: 20px;
     font-weight: bold;
@@ -13,7 +30,33 @@ button {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
-    margin: 20px auto;
-    width: 350px;
+    padding: 25px;
+
+}
+#display{
+    width: 100%;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: left;
+    background-color: rgb(29, 29, 29);
+    border: none;
+    
 }
 
+button:hover {
+    background-color: rgb(212, 194, 194);
+}
+button:active {
+    background-color: rgb(229, 190, 236);
+
+}
+
+.operator-btn{
+    background-color: rgb(224, 69, 191);
+}
+.operator-btn:hover{
+    background-color: rgb(204, 165, 219);
+}
+.operator-btn:active{
+    background-color: rgb(229, 190, 236);
+}

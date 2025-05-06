@@ -33,12 +33,12 @@ Experience the calculator here:
   - JavaScript (ES6 with clean, efficient logic)
 
 ## 📁 Project Structure
-_Calculator-/
-├── index.html # Main application interface
-├── style.css # Stylish presentation
-├── script.js # Interactive functionality
-├── calculator.png # Application screenshot
-└── README.md # Project documentation
+_Calculator-/ < br/>
+├── index.html # Main application interface < br/>
+├── style.css # Stylish presentation < br/>
+├── script.js # Interactive functionality < br/>
+├── calculator.png # Application screenshot < br/>
+└── README.md # Project documentation < br/>
 
 
 # 💻 Usage Guide

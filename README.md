@@ -32,14 +32,14 @@ Experience the calculator here:
   - CSS3 (Flexbox, Grid, Animations)
   - JavaScript (ES6 with clean, efficient logic)
 
-## 📁 Project Structure <br />
+## 📁 Project Structure 
 ```
-_Calculator-/ <br />
-├── index.html # Main application interface <br />
-├── style.css # Stylish presentation <br />
-├── script.js # Interactive functionality <br />
-├── calculator.png # Application screenshot <br />
-└── README.md # Project documentation <br />
+_Calculator-/ 
+├── index.html # Main application interface 
+├── style.css # Stylish presentation 
+├── script.js # Interactive functionality 
+├── calculator.png # Application screenshot 
+└── README.md # Project documentation 
 ```
 
 # 💻 Usage Guide
